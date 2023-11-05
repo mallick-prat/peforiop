@@ -5032,8 +5032,7 @@ html.no-js [data-aos]{opacity:1;-webkit-transform:none;transform:none}
 .mainhed__inner{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}
 .mainhed__link{display:block}
 .mainhed__hed{margin-top:-10px}
-.mainhed__logo,.mainhed__svg-logo svg{width:100%;height:auto;overflow:visible;max-width:var(--logo-max-width-mob,240px);max-height:var(--logo-max-height-mob,80px)}
-.mainhed__logo{width:auto;height:100%}
+
 .mainhed__toggle{position:relative;height:36px;width:36px;padding:0;background:transparent;border:0;z-index:1;border:0;border-radius:50%;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}
 .mainhed__toggle-text{position:absolute;height:1px;width:1px;overflow:hidden;clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px)}
 .mainhed__toggle-icon{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}
